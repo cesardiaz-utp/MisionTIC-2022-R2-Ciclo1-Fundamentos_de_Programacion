@@ -20,3 +20,12 @@ Materiales de estudio del Ciclo 1 de la Ruta 2 de MisionTIC 2022
   * Precedencia de operadores
 * [Ejercicios para resolver en clase](clase02/ejercicios.md)
 * [Taller para el desarrollo individual](clase02/taller.md)
+
+### Clase 3
+* Revisión a las soluciones del taller de clase pasada.
+* Conceptos del lenguaje Python
+  * [Recibir datos del usuario](clase03/recibir_datos.ipynb)
+  * [Definición de funciones nuevas](clase03/funciones_propias.ipynb)
+  * [Llamar funciones desde bibliotecas](clase03/bibliotecas_sistema.ipynb)
+  * Crear bibliotecas nuevas
+* **Tarea**: Leer material de Algoritmos páginas 21 a 45
