@@ -29,3 +29,12 @@ Materiales de estudio del Ciclo 1 de la Ruta 2 de MisionTIC 2022
   * [Llamar funciones desde bibliotecas](clase03/bibliotecas_sistema.ipynb)
   * Crear bibliotecas nuevas
 * **Tarea**: Leer material de Algoritmos páginas 21 a 45
+
+
+### Clase 4
+* Revisión lectura Algorítmos páginas 21 a 45
+* Conceptos del lenguaje Python
+  * [Funciones del sistema](clase04/funciones_sistema.ipynb)
+  * [Agregar variables a cadenas](clase04/formato_cadenas.ipynb)
+* [Taller para el desarrollo individual](clase04/taller.md)
+* **Tarea**: Leer material de Algoritmos páginas 46 a 73
