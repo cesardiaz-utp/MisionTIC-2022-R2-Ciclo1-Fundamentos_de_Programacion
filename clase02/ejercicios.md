@@ -27,9 +27,9 @@ Las reglas de precedencia de operadores del lenguaje Python
 
 ## Ejercicio 2: ¿Ves algún error en el precio?
 
-Si te fijas en la imagen observarás que el precio del producto **Pernil Iberic D'Engreix Llen. Azuaga** en porción de 100 gramos cuesta 5,95€ y el vendedor nos muestra que el precio por kilo cuesta 29,75€. ¿Crees que es correcto el precio?
+En el mercado, podemos encontrar que el precio del producto **Pernil Iberic D'Engreix Llen. Azuaga** en porción de 100 gramos cuesta 5,95€ y el vendedor nos muestra que el precio por kilo cuesta 29,75€. ¿Crees que es correcto el precio?
 
-En este reto tienes que hacer un programa que calcule correctamente el precio por kilo del producto de la imagen.
+En este reto tienes que hacer un programa que calcule correctamente el precio por kilo del producto.
 
 ### Análisis del problema
 
