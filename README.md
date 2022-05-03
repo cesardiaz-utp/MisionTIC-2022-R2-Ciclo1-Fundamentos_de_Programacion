@@ -48,3 +48,12 @@ Materiales de estudio del Ciclo 1 de la Ruta 2 de MisionTIC 2022
   * [Realizar expresiones relacionales lógicas](clase05/expresiones_logicas.md)
 * **Tarea**: Leer material de Tipificación de Condicionales
 * **Tarea**: Leer material de Algoritmos páginas 74 a 143 (se revisará dentro de dos (2) clases)
+
+### Clase 6
+* Revisión lectura Tipificación de Condicionales
+* Conceptos del lenguaje Python
+  * [Creación de instrucción con condicionales](clase06/operadores_condicionales.ipynb)
+  * [Instrucciones condicionales](clase06/instrucciones_condicionales.ipynb)
+  * [Diccionarios](clase06/diccionarios.ipynb)
+* [Ejercicios para resolver en clase](clase06/ejercicios.md)
+* **Tarea**: Leer material de Algoritmos páginas 74 a 143
