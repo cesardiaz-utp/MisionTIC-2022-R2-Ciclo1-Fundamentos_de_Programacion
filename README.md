@@ -57,3 +57,10 @@ Materiales de estudio del Ciclo 1 de la Ruta 2 de MisionTIC 2022
   * [Diccionarios](clase06/diccionarios.ipynb)
 * [Ejercicios para resolver en clase](clase06/ejercicios.md)
 * **Tarea**: Leer material de Algoritmos páginas 74 a 143
+
+### Clase 7
+* Revisión lectura Algorítmos páginas 74 a 143
+* Conceptos del lenguaje Python
+  * [Cadenas de caracteres](clase07/strings.ipynb)
+* [Taller para el desarrollo individual](clase07/taller.md)
+* **Tarea**: Leer material de Algoritmos páginas 144 a 172
