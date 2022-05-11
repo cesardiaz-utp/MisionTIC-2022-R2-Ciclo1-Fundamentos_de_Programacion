@@ -64,3 +64,10 @@ Materiales de estudio del Ciclo 1 de la Ruta 2 de MisionTIC 2022
   * [Cadenas de caracteres](clase07/strings.ipynb)
 * [Taller para el desarrollo individual](clase07/taller.md)
 * **Tarea**: Leer material de Algoritmos páginas 144 a 172
+
+## Unidad 3 - Estructuras de datos y ciclos
+### Clase 8
+* Revisión lectura Algorítmos páginas 144 a 172
+* Conceptos del lenguaje Python
+  * [Funciones recursivas](clase08/funciones_recursivas.ipynb)
+  * [Estructuras iterativas](clase08/estructuras_iterativas.ipynb)
