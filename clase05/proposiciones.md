@@ -16,7 +16,7 @@ Existen distintos criterios para clasificar proposiciones:
 Las **proposiciones simples** son aquellas que expresan un estado de situación en su estado más sencillo, es decir, uniendo a un sujeto con un objeto a partir del verbo “es”. Existen tanto en el ámbito de la matemática como en el de otras disciplinas y se caracterizan por no tener ningún término que condicione la proposición de ninguna manera.
 
 ### Ejemplos de proposiciones simples
-1. El 9 y el 27 son factores del 81.
+
 1. Esa caja es de madera.
 1. Nada es para siempre.
 1. La música clásica es la más antigua del mundo.
@@ -24,7 +24,7 @@ Las **proposiciones simples** son aquellas que expresan un estado de situación 
 1. La capital de Rusia es Moscú.
 1. Esa chica es mi amiga.
 1. Son las tres de la tarde con veintiséis minutos.
-1. Los animales carnívoros se alimentan de plantas. (Proposición falsa)
+1. Los animales carnívoros se alimentan de plantas.
 1. Mi nombre es Fabián.
 
 ## Las proposiciones compuestas
@@ -35,6 +35,7 @@ Esto explica que en la proposición compuesta la relación entre el sujeto y el 
 
 ### Ejemplos de proposiciones compuestas
 
+1. El 9 y el 27 son factores del 81.
 1. Puedo manejar un auto si tiene dirección hidráulica.
 1. Gabriel García Márquez fue un gran escritor y bailarín.
 1. Las células son procariotas o eucariotas.

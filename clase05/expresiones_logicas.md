@@ -7,12 +7,18 @@
 | F |  T  |
 
 ## Tabla de verdad de los conectores **conjunción** y **disyunción**
-| p |  q  | p ∧ q | p v q | p ∧ ¬p | p v ¬p |
-|---|-----|-------|-------|--------|--------|
-| T |  T  |   T   |   T   |   F    |   T    |
-| T |  F  |   F   |   T   |   T    |   T    |
-| F |  T  |   F   |   T   |   F    |   F    |
-| F |  F  |   F   |   F   |   F    |   T    |
+| p |  q  | p ∧ q | p v q |
+|---|-----|-------|-------|
+| T |  T  |   T   |   T   |
+| T |  F  |   F   |   T   |
+| F |  T  |   F   |   T   |
+| F |  F  |   F   |   F   |
+
+## Casos especiales
+| p | p ∧ ¬p | p v ¬p |
+|---|--------|--------|
+| T |   F    |   T    |
+| F |   F    |   T    |
 
 ## Leyes fundamentales
 
