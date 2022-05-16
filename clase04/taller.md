@@ -21,7 +21,7 @@ Escribir una función que calcule el área de un círculo y otra que calcule el 
 ## Ejercicio 5
 Escribir un programa que lea un entero positivo *n*, introducido por el usuario y después muestre en pantalla la suma de todos los enteros desde 1 hasta *n*. La suma de los primeros enteros positivos puede ser calculada de la siguiente forma:
 
-![suma = \frac{n(n+1)}{2}](https://latex.codecogs.com/svg.latex?\Large&space;suma=\frac{n(n+1)}{2})
+![suma = \frac{n(n+1)}{2}](https://latex.codecogs.com/png.image?\dpi{140}\bg{white}suma=\frac{n(n&plus;1)}{2})
 
 ## Ejercicio 6
 Escribir un programa que pida al usuario su peso (en kg) y estatura (en metros), calcule el índice de masa corporal y lo almacene en una variable, y muestre por pantalla la frase `Tu índice de masa corporal es <imc>` donde `<imc>` es el índice de masa corporal calculado redondeado con dos decimales.

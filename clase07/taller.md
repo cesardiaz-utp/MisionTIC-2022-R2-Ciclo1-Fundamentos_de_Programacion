@@ -34,7 +34,7 @@ Crear un algoritmo que indique el valor del descuento de un artículo dependiend
 ## Ejercicio 9
 Crear un algoritmo que permita saber si una ecuación cuadrática tiene o no solución.Recuerde que una ecuación cuadrática se define como:
 
-![x=\frac{-b\pm\sqrt{b^{2}-4ac} }{2a}](https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^{2}-4ac}}{2a})
+![x=\frac{-b\pm\sqrt{b^{2}-4ac} }{2a}](https://latex.codecogs.com/png.image?\dpi{140}\bg{white}x=\frac{-b\pm\sqrt{b^{2}-4ac}}{2a})
 
 Y se dice que tiene solución si el valor del discriminaste (que corresponde al cálculo interno de la raíz cuadrada ___b**2−4ac___) es mayor o igual a cero y el valor de *a* es diferente de cero.
 
