@@ -88,3 +88,9 @@ Materiales de estudio del Ciclo 1 de la Ruta 2 de MisionTIC 2022
   * [Acceso a datos](clase10/datos.py)
   * [Aplicación principal](clase10/main.py)
 * [Pruebas de la capa lógica](test_logica.ipynb)
+
+## Unidad 4 - Manipulación de colecciones y librerias
+### Clase 11
+* Conceptos del lenguaje Python
+  * [Programación Funcional](clase11/programacion_funcional.ipynb)
+  * [List Comprehension](clase11/list_comprehension.ipynb)
