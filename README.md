@@ -78,3 +78,13 @@ Materiales de estudio del Ciclo 1 de la Ruta 2 de MisionTIC 2022
   * [Tuplas](clase09/tuplas.ipynb)
   * [Conjuntos](clase09/conjuntos.ipynb)
 * [Ejercicios para resolver en clase](clase09/ejercicios.md)
+
+### Clase 10
+* [Patrón de Arquitectura por Capas](clase10/Arquitectura_capas.md)
+* [¿Qué es CRUD?](clase10/CRUD.md)
+* [CRUD de Tareas Pendientes](clase10/explicacion_ejemplo.md)
+  * [Vista](clase10/vista.py)
+  * [Lógica de negocio](clase10/logica.py)
+  * [Acceso a datos](clase10/datos.py)
+  * [Aplicación principal](clase10/main.py)
+* [Pruebas de la capa lógica](test_logica.ipynb)
