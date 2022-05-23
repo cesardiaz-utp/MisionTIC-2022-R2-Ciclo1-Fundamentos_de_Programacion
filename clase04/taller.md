@@ -1,8 +1,8 @@
 # Taller Clase 4
 
-Este taller vebe crear una biblioteca llamada **taller** y la solucioón de cada ejercicio se realizará en una función llamada _ejercicio_X_, donde _X_ es el número del ejercicio.  
+Este taller debe crear una biblioteca llamada **taller** y la solución de cada ejercicio se realizará en una función llamada _ejercicio_X_, donde _X_ es el número del ejercicio.  
 
-Adicionalmente, crear un archivo _prueba_ donde se escribiran los comandos para probar cada una de las funciones.
+Adicionalmente, crear un archivo _prueba_ donde se escribirán los comandos para probar cada una de las funciones.
 
 **Nota**: si necesita crear funciones adicionales para resolver los ejercicios, debes crearlas en la biblioteca, en el archivo prueba no debes crear ninguna función. 
 

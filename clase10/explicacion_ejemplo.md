@@ -56,6 +56,6 @@ En este ejemplo, solo encontraremos un diccionario llamado `todos` con la inform
 **Cabe resaltar** que las funciones que se crean en la capa de _acceso a datos_, por lo general devuelven valores. Si encontramos una función que no devuelva valor, es una señal que no debe estar en esta capa.
 
 ## Aplicación Principal (main.py)
-Este archivo solo llama al metodo inicial que se encuentra en la capa de presentación.
+Este archivo solo llama al método inicial que se encuentra en la capa de presentación.
 
-Este archivo tambien se puede llamar _Launcher_ o _lanzador_
+Este archivo también se puede llamar _Launcher_ o _lanzador_

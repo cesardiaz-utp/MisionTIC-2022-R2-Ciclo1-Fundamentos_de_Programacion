@@ -2,7 +2,7 @@
 
 ## Unidad 2 - Condicionales y Diccionarios
 ### Clase 7
-* Revisión lectura Algorítmos páginas 74 a 143
+* Revisión lectura Algoritmos páginas 74 a 143
 * Conceptos del lenguaje Python
   * [Cadenas de caracteres](strings.ipynb)
 * [Taller para el desarrollo individual](taller.md)

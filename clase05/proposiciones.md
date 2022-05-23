@@ -25,7 +25,7 @@ Las **proposiciones simples** son aquellas que expresan un estado de situación 
 1. Esa chica es mi amiga.
 1. Son las tres de la tarde con veintiséis minutos.
 1. Los animales carnívoros se alimentan de plantas.
-1. Mi nombre es Fabián.
+1. Mi nombre es Fabian.
 
 ## Las proposiciones compuestas
 

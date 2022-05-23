@@ -12,4 +12,4 @@ Términos alternativos son usados a veces cuando se definen las cuatro funciones
 
 CRUD se usa también a veces para describir convenciones de **_interfaz de usuario_** que facilita la vista, búsqueda y modificación de la información.
 
-El término fue popularizado por primera vez por James Martin en su libro del año 1980 Managing the Data-base Enviroment. El acrónimo puede extenderse a **CRUDL** para cubrir el **Listado (_List_)** de gran cantidad de datos que conllevan una complejidad tal como _paginación_ cuando los registros de datos son demasiado grandes para alojarse fácilmente en memoria. 
+El término fue popularizado por primera vez por James Martin en su libro del año 1980 Managing the Data-base Environment. El acrónimo puede extenderse a **CRUDL** para cubrir el **Listado (_List_)** de gran cantidad de datos que conllevan una complejidad tal como _paginación_ cuando los registros de datos son demasiado grandes para alojarse fácilmente en memoria. 

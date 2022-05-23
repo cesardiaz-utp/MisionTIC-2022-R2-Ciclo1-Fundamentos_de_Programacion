@@ -1,5 +1,5 @@
 # Ruta 2 - Ciclo1 - Fundamentos de Programación
-Materiales de estudio del Ciclo 1 de la Ruta 2 de MisionTIC 2022
+Materiales de estudio del Ciclo 1 de la Ruta 2 de MisiónTIC 2022
 
 ## Unidad 1 - Primeros pasos para programar 
 ### Clase 1
@@ -9,7 +9,7 @@ Materiales de estudio del Ciclo 1 de la Ruta 2 de MisionTIC 2022
 * **Tarea**: Leer material de Algoritmos páginas 1 a 20
 
 ### Clase 2
-* Revisión lectura Algorítmos páginas 1 a 20
+* Revisión lectura Algoritmos páginas 1 a 20
 * [Conceptos del lenguaje Python](clase02/conceptos_lenguaje.ipynb)
   * Impresión en pantalla
   * Comentarios
@@ -32,7 +32,7 @@ Materiales de estudio del Ciclo 1 de la Ruta 2 de MisionTIC 2022
 
 
 ### Clase 4
-* Revisión lectura Algorítmos páginas 21 a 45
+* Revisión lectura Algoritmos páginas 21 a 45
 * Conceptos del lenguaje Python
   * [Funciones del sistema](clase04/funciones_sistema.ipynb)
   * [Agregar variables a cadenas](clase04/formato_cadenas.ipynb)
@@ -41,7 +41,7 @@ Materiales de estudio del Ciclo 1 de la Ruta 2 de MisionTIC 2022
 
 ## Unidad 2 - Condicionales y Diccionarios
 ### Clase 5
-* Revisión lectura Algorítmos páginas 46 a 73
+* Revisión lectura Algoritmos páginas 46 a 73
 * Conceptos del lenguaje Python
   * [Proposiciones simples y complejas](clase05/proposiciones.md)
   * [Conocer el uso de Booleanos y sus operadores](clase05/operaciones_logicas.md)
@@ -59,7 +59,7 @@ Materiales de estudio del Ciclo 1 de la Ruta 2 de MisionTIC 2022
 * **Tarea**: Leer material de Algoritmos páginas 74 a 143
 
 ### Clase 7
-* Revisión lectura Algorítmos páginas 74 a 143
+* Revisión lectura Algoritmos páginas 74 a 143
 * Conceptos del lenguaje Python
   * [Cadenas de caracteres](clase07/strings.ipynb)
 * [Taller para el desarrollo individual](clase07/taller.md)
@@ -67,7 +67,7 @@ Materiales de estudio del Ciclo 1 de la Ruta 2 de MisionTIC 2022
 
 ## Unidad 3 - Estructuras de datos y ciclos
 ### Clase 8
-* Revisión lectura Algorítmos páginas 144 a 172
+* Revisión lectura Algoritmos páginas 144 a 172
 * Conceptos del lenguaje Python
   * [Funciones recursivas](clase08/funciones_recursivas.ipynb)
   * [Estructuras iterativas](clase08/estructuras_iterativas.ipynb)
@@ -80,6 +80,7 @@ Materiales de estudio del Ciclo 1 de la Ruta 2 de MisionTIC 2022
 * [Ejercicios para resolver en clase](clase09/ejercicios.md)
 
 ### Clase 10
+* [Git y Github](clase10/git.md)
 * [Patrón de Arquitectura por Capas](clase10/Arquitectura_capas.md)
 * [¿Qué es CRUD?](clase10/CRUD.md)
 * [CRUD de Tareas Pendientes](clase10/explicacion_ejemplo.md)
@@ -89,8 +90,15 @@ Materiales de estudio del Ciclo 1 de la Ruta 2 de MisionTIC 2022
   * [Aplicación principal](clase10/main.py)
 * [Pruebas de la capa lógica](test_logica.ipynb)
 
-## Unidad 4 - Manipulación de colecciones y librerias
+## Unidad 4 - Manipulación de colecciones y librerías
 ### Clase 11
 * Conceptos del lenguaje Python
   * [Programación Funcional](clase11/programacion_funcional.ipynb)
   * [List Comprehension](clase11/list_comprehension.ipynb)
+
+### Clase 12
+* Conceptos del lenguaje Python
+  * List Comprehension
+    * [Algoritmo Dijkstra](clase12/dijkstra.ipynb)
+  * [Funciones map(), filter(), reduce(), zip(), enumerate()](clase12/funciones_sobre_colecciones.ipynb)
+* [Ejercicios para resolver en clase](clase12/ejercicios.md)

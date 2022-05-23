@@ -15,7 +15,7 @@ todos = {
         "tiempo": 50
     },
     4: {
-        "descripcion": "clase de programacion",
+        "descripcion": "clase de programación",
         "estado": "en curso",
         "tiempo": 120
     }

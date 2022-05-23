@@ -1,7 +1,7 @@
 from datos import todos
 
 def generate_id() -> int:
-    """ Genera el siguiente consecutivo en el almacen de datos    
+    """ Genera el siguiente consecutivo en el almacén de datos    
     """
     ids = set(todos.keys())
     if len(ids) > 0:
@@ -11,15 +11,15 @@ def generate_id() -> int:
     return 1
 
 def create(task: dict):
-    """ Adiciona un nuevo elemento al almacen de datos.
-    Parametros:
+    """ Adiciona un nuevo elemento al almacén de datos.
+    Parámetros:
         task: Información de la tarea que se desea agregar.
     """
     id = generate_id()
     todos[id] = task
 
 def read_all() -> list:
-    """ Devuelve la lista de elementos que se encuentran en el almacen de datos.
+    """ Devuelve la lista de elementos que se encuentran en el almacén de datos.
     """
     resp = []
     # Creo una copia del valor y le agrego el id
@@ -31,8 +31,8 @@ def read_all() -> list:
     return resp
 
 def read_one(id: int) -> dict:
-    """ Devuelve la informacion del elemento que se encuentran en el almacen de datos.
-    Parametros:
+    """ Devuelve la información del elemento que se encuentran en el almacén de datos.
+    Parámetros:
         id: Número del identificador del dato a consultar.
     Retorna:
         dict: Colección con los datos del elemento consultado.
@@ -42,26 +42,26 @@ def read_one(id: int) -> dict:
     return item
 
 def exist(id: int) -> bool:
-    """ Verifica si existe un identificador en el almacen de datos.
-    Parametros:
+    """ Verifica si existe un identificador en el almacén de datos.
+    Parámetros:
         id: Número del identificador del dato a consultar.
     Retorna:
-        bool: Devuelve True si el id se encuentra en el almacen, de lo contrario, devuelve False.
+        bool: Devuelve True si el id se encuentra en el almacén, de lo contrario, devuelve False.
     """
     ids = set(todos.keys())
     return id in ids
     
 def update(id: int, task: dict):
-    """Actualiza la informacion del elemento que se encuentran en el almacen de datos.
-    Parametros:
+    """Actualiza la información del elemento que se encuentran en el almacén de datos.
+    Parámetros:
         id: Número del identificador del dato a modificar.
         task: Información de la tarea que se desea agregar en el identificador dado.
     """
     todos[id] = task
 
 def delete(id: int):
-    """Elimina la informacion del elemento que se encuentran en el almacen de datos.
-    Parametros:
+    """Elimina la información del elemento que se encuentran en el almacén de datos.
+    Parámetros:
         id: Número del identificador del dato a eliminar.
     """
     todos.pop(id)

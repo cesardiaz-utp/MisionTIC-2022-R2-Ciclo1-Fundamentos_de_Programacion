@@ -2,7 +2,7 @@
 
 ## Unidad 2 - Condicionales y Diccionarios
 ### Clase 5
-* Revisión lectura Algorítmos páginas 46 a 73
+* Revisión lectura Algoritmos páginas 46 a 73
 * Conceptos del lenguaje Python
   * [Proposiciones simples y complejas](proposiciones.md)
   * [Conocer el uso de Booleanos y sus operadores](operaciones_logicas.md)

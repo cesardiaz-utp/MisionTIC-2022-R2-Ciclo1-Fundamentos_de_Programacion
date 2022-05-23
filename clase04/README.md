@@ -3,7 +3,7 @@
 ## Unidad 1 - Primeros pasos para programar
 
 ### Clase 4
-* Revisión lectura Algorítmos páginas 21 a 45
+* Revisión lectura Algoritmos páginas 21 a 45
 * Conceptos del lenguaje Python
   * [Funciones del sistema](funciones_sistema.ipynb)
   * [Agregar variables a cadenas](formato_cadenas.ipynb)

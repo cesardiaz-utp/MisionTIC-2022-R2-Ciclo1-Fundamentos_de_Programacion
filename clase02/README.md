@@ -3,7 +3,7 @@
 ## Unidad 1 - Primeros pasos para programar 
 
 ### Clase 2
-* Revisión lectura Algorítmos páginas 1 a 20
+* Revisión lectura Algoritmos páginas 1 a 20
 * [Conceptos del lenguaje Python](conceptos_lenguaje.ipynb)
   * Impresión en pantalla
   * Comentarios
