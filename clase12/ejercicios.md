@@ -21,8 +21,17 @@ Que valores generan las siguientes List Comprehensions
 ### Ejercicio 5
 Cual sería la expresión List Comprehension para generar la siguiente lista: `[0, 1, 8, 27, 64, 125, 216, 343, 512, 729, 1000]`
 
-## Funciones map(), reduce(), filter()
 ### Ejercicio 6
+Con la lista `frutas = ['mango', 'kiwi', 'fresa', 'guayaba', 'piña', 'mandarina', 'uva', 'banano']`generar otra con la cantidad de caracteres que tiene cada fruta: `[5, 4, 5, ...]`.
+
+### Ejercicio 7
+Con la lista `frutas = ['mango', 'kiwi', 'fresa', 'guayaba', 'piña', 'mandarina', 'uva', 'banano']`generar otra con las frutas que solo tengan exactamente 2 vocales: `['mango', 'kiwi', ...]`.
+
+### Ejercicio 8 - Especial 
+Crear una lista con los números primos que existen entre el 2 y el 100.
+
+## Funciones map(), reduce(), filter()
+### Ejercicio 9
 Usando las funciones map(), reduce(), filter()
 ```python
 from functools import reduce 
@@ -46,7 +55,7 @@ print(reduce_result)
 ```
 
 ## Funciones all(), any()
-### Ejercicio 7
+### Ejercicio 10
 Se recibe una lista de números enteros separados por espacios: Si todos los enteros son positivos, se debe revisar si algún entero es un número palíndromo como se muestra a continuación https://en.wikipedia.org/wiki/Palindromic_number. Se imprime la palabra ‘True’ si se cumplen las condiciones o ‘False’ de lo contrario.
 Ejemplos:
 * Para `[10, 30, 50, 90, 100, 101]` imprime `True`
