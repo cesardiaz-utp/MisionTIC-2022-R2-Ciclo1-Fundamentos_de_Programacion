@@ -1,9 +1,9 @@
 # Git
 
 Git es un **software de control de versiones** diseñado por Linus Torvalds, pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente.  
-Su propósito es _llevar registro de los cambios_ en archivos de computadora incluyendo _coordinar el trabajo que varias personas realizan_ sobre archivos compartidos en un repositorio de código. 
+Su propósito es _llevar registro de los cambios en archivos de computadora_ incluyendo _coordinar el trabajo que varias personas realizan sobre archivos compartidos_ en un repositorio de código. 
 
-Recursos importantes
+**Recursos importantes**
 - [Hoja de referencia para GIT](https://training.github.com/downloads/es_ES/github-git-cheat-sheet.pdf)
 - [Una referencia visual de Git](https://marklodato.github.io/visual-git-guide/index-es.html)
 - [Aprende GIT ahora! curso completo GRATIS desde cero](https://www.youtube.com/watch?v=VdGzPZ31ts8)
@@ -29,18 +29,32 @@ git config --global user.name "[name]"
 git config --global user.email "[email address]"
 ```
 
-- Habilita la opción de ver a color algunos comandos en la línea de comando
+- Habilita la opción de ver a color algunos comandos en la línea de comando (opcional)
 ```powershell
 git config --global color.ui auto
 ```
 
-# Github
+- Consulta la configuración realizada de manera global
+```powershell
+git config --global --list
+```
 
-GitHub es una **plataforma de desarrollo colaborativo** para alojar proyectos utilizando el sistema de control de versiones Git en la nube.  
+- Elimina el valor de una variable mal ingresada
+```powershell
+git config --global --unset [variable]
+```
+
+# GitHub
+
+GitHub es una **plataforma de desarrollo colaborativo** para alojar proyectos utilizando el _sistema de control de versiones_ Git en la nube.  
 Se utiliza principalmente para la creación de código fuente de programas de ordenador.  
 El código de los proyectos alojados en GitHub se almacena generalmente de forma pública. 
 
-## Creación de cuenta en Github.com
+**Recursos importantes**
+- [GitHub for Developers](https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class)
+- [Video Curso de Git y Github](https://www.youtube.com/embed/videoseries?list=PLU8oAlHdN5BlyaPFiNQcV0xDqy0eR35aU)
+
+## Creación de cuenta en GitHub.com
 
 1. Acceda a [GitHub.com](https://github.com/) y dé click en **Sign up**
 1. Agregue su cuenta de correo electrónico
@@ -57,9 +71,37 @@ El código de los proyectos alojados en GitHub se almacena generalmente de forma
 Listo!!
 Ya tenemos nuestra cuenta de Github creada
 
-Recursos importantes
-- [GitHub for Developers](https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class)
-- [Video Curso de Git y Github](https://www.youtube.com/embed/videoseries?list=PLU8oAlHdN5BlyaPFiNQcV0xDqy0eR35aU)
+## Crear y habilitar la llave ssh para asegurar la cuenta
+
+[ver tutorial original](https://docs.github.com/es/authentication/connecting-to-github-with-ssh)
+
+### Generar una nueva llave SSH
+1. Abrir el `Git bash`
+2. Crear la llave con el correo electrónico que se usó para crear la cuenta de GitHub
+```bash
+ssh-keygen -t ed25519 -C "[email]"
+```
+3. Agregar al servidor (dominio) de GitHub como un equipo conocido para enviar información por ssh para las claves de tipo `ed25519`
+```bash
+ssh-keyscan -t ed25519 github.com >> ~/.ssh/known_hosts
+```
+### Adicionar la llave SSH al agente ssh-agent
+1. Abrir el `Git bash` (o en el mismo del paso anterior)
+2. Asegurarse que el agente se encuentra en ejecución. 
+```bash
+eval "$(ssh-agent -s)"
+```
+3. Adicionar su llave **SSH privada** al agente  
+```bash
+ssh-add ~/.ssh/id_ed25519
+```
+4. Copiar la llave **SSH pública** al portapapeles
+```bash
+clip < ~/.ssh/id_ed25519.pub
+```
+
+## Agregar llave SSH a cuenta GitHub.com
+Siga las instrucciones del [manual](https://docs.github.com/es/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) en la página de GitHub
 
 # Comandos importantes que usaremos con Git y Github
 
@@ -97,4 +139,20 @@ git add .
 - Registra las instantáneas del archivo permanentemente en el historial de versión
 ```powershell
 git commit -m "[descriptive message]"
+```
+
+## Sincronizar cambios con GitHub
+- Descarga todo el historial del marcador del repositorio
+```powershell
+ git fetch [bookmark]
+```
+
+- Descarga el historial del marcador e incorpora cambios
+```powershell
+git pull
+```
+
+- Carga todos los commits de la rama local al GitHub
+```powershell
+git push [alias] [branch]
 ```
