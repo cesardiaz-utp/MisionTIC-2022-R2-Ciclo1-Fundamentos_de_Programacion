@@ -109,3 +109,12 @@ Materiales de estudio del Ciclo 1 de la Ruta 2 de MisiónTIC 2022
     * [Juego Triqui](clase13/triqui.py)
     * [Ejercicios para resolver en clase](clase13/ejercicios_numpy.ipynb)
   * [Pandas](clase13/pandas.ipynb)
+
+## Unidad 5 - Visualización y manipulación de archivos
+### Clase 14
+* Conceptos del lenguaje Python
+  * [Gráficos con matplotlib](clase14/graficas_matplotlib.ipynb)
+  * [Gráficas con DataFrames](clase14/graficas_pandas.ipynb)
+  * [Gráficas desde archivo](clase14/graficas_dataframes.ipynb)
+  * [Manejo de fechas](clase14/manejo_fechas.ipynb)
+  * [Otras manipulaciones de DataFrames](clase14/otros.ipynb)
