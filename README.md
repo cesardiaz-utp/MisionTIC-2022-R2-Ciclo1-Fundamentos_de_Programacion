@@ -102,3 +102,10 @@ Materiales de estudio del Ciclo 1 de la Ruta 2 de MisiónTIC 2022
     * [Algoritmo Dijkstra](clase12/dijkstra.ipynb)
   * [Funciones map(), filter(), reduce(), zip(), enumerate()](clase12/funciones_sobre_colecciones.ipynb)
 * [Ejercicios para resolver en clase](clase12/ejercicios.md)
+
+### Clase 13
+* Conceptos del lenguaje Python
+  * [NumPy](clase13/numpy.ipynb)
+    * [Juego Triqui](clase13/triqui.py)
+    * [Ejercicios para resolver en clase](clase13/ejercicios_numpy.ipynb)
+  * [Pandas](clase13/pandas.ipynb)
