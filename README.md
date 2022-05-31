@@ -118,3 +118,17 @@ Materiales de estudio del Ciclo 1 de la Ruta 2 de MisiónTIC 2022
   * [Gráficas desde archivo](clase14/graficas_dataframes.ipynb)
   * [Manejo de fechas](clase14/manejo_fechas.ipynb)
   * [Otras manipulaciones de DataFrames](clase14/otros.ipynb)
+
+### Clase 15
+* Conceptos del lenguaje Python
+  * Manejo de archivos
+    * [Texto](clase15/archivos/texto.ipynb)
+    * [JSON](clase15/archivos/json.ipynb)
+    * [Pandas](clase15/archivos/pandas.ipynb)
+  * Aplicación CRUD completa
+    * [Patrón de Arquitectura MVC](clase15/crud/Arquitectura_MVC.md)
+    * [Modelo](clase15/crud/modelo.py)
+    * [Vista](clase15/crud/vista.py)
+    * [Controlador](clase15/crud/controlador.py)
+    * [Archivo principal](clase15/crud/main.py) (Buena práctica de desarrollo)
+* [Taller para el desarrollo individual](clase15/taller.md)
