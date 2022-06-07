@@ -132,3 +132,8 @@ Materiales de estudio del Ciclo 1 de la Ruta 2 de MisiónTIC 2022
     * [Controlador](clase15/crud/controlador.py)
     * [Archivo principal](clase15/crud/main.py) (Buena práctica de desarrollo)
 * [Taller para el desarrollo individual](clase15/taller.md)
+
+### Clase 16
+* Conceptos del lenguaje Python
+  * [Archivo para análisis COVID-19](clase16/Casos_positivos_de_COVID-19.csv)
+  * [Cuaderno de análisis Covid-19](clase16/analisis.ipynb)
