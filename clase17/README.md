@@ -5,4 +5,5 @@
 * Conceptos del lenguaje Python
   * POO - Programación Orientada a Objetos (iMaster)
     * [Workshop POO](poo.ipynb)
+    * [Ejemplo](ejemplo.ipynb)
   * [Errores y excepciones](excepciones.ipynb)
