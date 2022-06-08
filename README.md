@@ -145,3 +145,10 @@ Materiales de estudio del Ciclo 1 de la Ruta 2 de MisiónTIC 2022
     * [Workshop POO](clase17/poo.ipynb)
     * [Ejemplo](clase17/ejemplo.ipynb)
   * [Errores y excepciones](clase17/excepciones.ipynb)
+
+### Clase 18
+* Conceptos del lenguaje Python
+  * [Trabajando gráficas](clase18/turtle.ipynb)
+    * [main.py](clase18/turtle/main.py)
+    * [vista.py](clase18/turtle/vista.py)
+    * [controlador.py](clase18/turtle/controlador.py)
