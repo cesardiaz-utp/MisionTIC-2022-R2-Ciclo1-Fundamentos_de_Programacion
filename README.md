@@ -137,3 +137,10 @@ Materiales de estudio del Ciclo 1 de la Ruta 2 de MisiónTIC 2022
 * Conceptos del lenguaje Python
   * [Archivo para análisis COVID-19](clase16/Casos_positivos_de_COVID-19.csv)
   * [Cuaderno de análisis Covid-19](clase16/analisis.ipynb)
+
+## Unidad 6 - Conceptos adicionales
+### Clase 17
+* Conceptos del lenguaje Python
+  * POO - Programación Orientada a Objetos (iMaster)
+    * [Workshop POO](clase17/poo.ipynb)
+  * [Errores y excepciones](clase17/excepciones.ipynb)
