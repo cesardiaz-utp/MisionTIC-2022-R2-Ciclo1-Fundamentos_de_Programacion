@@ -7,3 +7,8 @@
     * [main.py](turtle/main.py)
     * [vista.py](turtle/vista.py)
     * [controlador.py](turtle/controlador.py)
+  * [Interfaz gráfica de usuario](tkinter.ipynb)
+    * [main.py](crud/main.py)
+    * [modelo.py](crud/modelo.py)
+    * [vista.py](crud/vista.py)
+    * [controlador.py](crud/controlador.py)
