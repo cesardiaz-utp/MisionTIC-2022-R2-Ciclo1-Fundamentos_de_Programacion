@@ -7,6 +7,8 @@
     * [main.py](turtle/main.py)
     * [vista.py](turtle/vista.py)
     * [controlador.py](turtle/controlador.py)
+    * Ejemplos
+      * [Snake](turtle/snake.py)
   * [Interfaz gráfica de usuario](tkinter.ipynb)
     * [main.py](crud/main.py)
     * [modelo.py](crud/modelo.py)

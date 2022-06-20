@@ -152,6 +152,8 @@ Materiales de estudio del Ciclo 1 de la Ruta 2 de MisiónTIC 2022
     * [main.py](clase18/turtle/main.py)
     * [vista.py](clase18/turtle/vista.py)
     * [controlador.py](clase18/turtle/controlador.py)
+    * Ejemplos
+      * [Snake](clase18/turtle/snake.py)
   * [Interfaz gráfica de usuario](clase18/tkinter.ipynb)
     * [main.py](clase18/crud/main.py)
     * [modelo.py](clase18/crud/modelo.py)
